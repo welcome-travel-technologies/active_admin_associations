@@ -2,8 +2,6 @@ PATH
   remote: .
   specs:
     activeadmin_associations (0.2.0)
-      activeadmin (= 1.0.0.pre4)
-      rails (~> 4.0)
 
 GEM
   remote: http://rubygems.org/
@@ -248,7 +246,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activeadmin (= 1.0.0.pre4)
+  activeadmin
   activeadmin_associations!
   appraisal (~> 1.0)
   bourbon
@@ -263,3 +261,6 @@ DEPENDENCIES
   sass-rails
   shoulda-matchers (~> 2.7)
   sqlite3
+
+BUNDLED WITH
+   1.15.1

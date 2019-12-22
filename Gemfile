@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem 'activeadmin', '1.0.0.pre4'
+gem 'activeadmin'
 gem 'sass-rails'
 gem 'bourbon'
 gem 'launchy'
